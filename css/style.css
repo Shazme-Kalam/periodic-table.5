@@ -1,0 +1,99 @@
+#head{  
+color: rgb(65, 139, 76);
+background-color: rgb(213, 247, 162);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 25px;
+border: 3px double rgb(64, 190, 33);
+border-radius: 12px 12px 2px 2px;
+padding: 20px;
+width: 500px;
+}
+td:hover {
+    transform: scale(2.0);
+    transition: 3s;
+    
+}
+td {
+    empty-cells: hide;
+    text-align: center;
+    border-radius: 3px;
+    width: 30px;
+    height: 30px;
+    font-size: 08px;
+}
+table {
+    border-collapse : collapse;
+    }
+   
+
+.abc {
+    color: rgb(10, 30, 143);
+    background-color: rgb(213, 253, 240) ;
+}
+.ab {
+    
+    color: rgb(226, 34, 34);
+    background-color: rgb(252, 225, 229);
+}
+.bc {
+color: rgb(135, 6, 255);
+background-color: rgb(238, 222, 238) ;
+}
+sup {
+    font-size: 10px;
+    font-weight: bold;
+}
+.Cd {
+    color: blue;
+    background-color: rgb(213, 247, 235);
+}
+.ad {
+    color: darkslategray;
+    background-color: lightgray;
+}
+.bd {
+    color: darkolivegreen;
+    background-color: rgb(188, 248, 228);
+}
+.ac {
+color: brown;
+background-color: rgb(252, 227, 218);
+}
+.da {
+    color: darkred;
+    background-color: rgb(248, 217, 221);
+}
+.ca {
+color: darkolivegreen;
+background-color: rgb(198, 248, 198);
+
+}
+h1{
+    font-size: 12px;
+    line-height: 1px;
+}
+.Last {
+color: brown;
+background-color: rgb(255, 201, 255);
+}
+ul{
+    list-style: none;
+    text-align: justify;
+    font-size: 14px;
+}
+li{ 
+    display: inline-block;
+    margin-right: 45px;
+
+}
+li::before{
+    color: red;
+    margin: 2px;
+}
+.mtl{
+    color: brown;
+    margin: 10px;
+    padding: 20px;
+}
+
+
