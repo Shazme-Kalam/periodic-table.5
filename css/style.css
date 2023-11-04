@@ -95,5 +95,13 @@ li::before{
     margin: 10px;
     padding: 20px;
 }
+#zzz{
+    color: rgb(50, 161, 56);
+    font-weight: 700;
+    word-spacing: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+
 
 
